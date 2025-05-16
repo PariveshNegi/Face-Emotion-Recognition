@@ -1,4 +1,9 @@
-# Face Emotion Recognition
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Face+Emotion+Recognition!&center=true&size=30">
+  </a>
+</h1>
+
 ## Tip 
 You can change the learning parameater by decreasing the batch size from 128 to 100 and increase the epoches > 100 to get good accuracy but dont fell in trap pf overfitting😉. 
 ## Overview

@@ -1,5 +1,6 @@
 # Face Emotion Recognition
-
+## Tip 
+You can change the learning parameater by decreasing the batch size from 128 to 100 and increase the epoches > 100 to get good accuracy but dont fell in trap pf overfitting😉. 
 ## Overview
 Face Emotion Recognition is a real-time emotion detection system that uses deep learning to identify emotions from facial expressions. The system utilizes OpenCV for face detection and a pre-trained neural network model to classify emotions.
 
